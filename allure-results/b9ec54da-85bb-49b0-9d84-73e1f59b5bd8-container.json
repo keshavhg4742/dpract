@@ -1,0 +1,1 @@
+{"uuid":"b9ec54da-85bb-49b0-9d84-73e1f59b5bd8","name":"testngpract.AllurReport","children":["3a610c16-9197-45e5-80bc-e3e368e4a83f"],"befores":[],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1749833075798,"stop":1749833076121}],"start":1749833068185,"stop":1749833076154}
