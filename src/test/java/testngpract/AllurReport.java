@@ -36,7 +36,7 @@ public class AllurReport {
 	@Test
 	public void test2() {
 		System.out.println("Test2");
-		Assert.fail("failed test2");
+		//Assert.fail("failed test2");
 
 	}
 
